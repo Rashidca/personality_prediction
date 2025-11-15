@@ -122,10 +122,7 @@ It helps users reflect on:
 ## 👨‍💻 Developer
 
 **Muhammed Rashid**
-📩 *Add contact info if you like*
-💙 Contributions, suggestions & feedback are welcome!
 
----
 
 ## ⭐ Future Enhancements
 
